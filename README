@@ -1,0 +1,6 @@
+Caminho dos arquivos de automação Cypress:
+Pasta Cypress > Integration > Services > Boletos
+Na pasta boletos se encontram todos os payloads utilizados, requests e os tests.
+
+Para execução dos testes, basta subir a pasta Cypress completa para o framework Cypress e executar manualmente o arquivo POSTboletos.spec.js dentro da pasta 
+"tests".
